@@ -55,14 +55,11 @@ My focus is on creating:
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darshan12309&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=475569&icon_color=2563eb&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=darshan12309&theme=light&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=darshan12309&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Streak Stats](https://streak-stats.demolab.com/?user=darshan12309&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=darshan12309&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan12309&layout=compact&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=475569" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=darshan12309&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Featured Work
 
@@ -71,9 +68,7 @@ My focus is on creating:
 - Observability and alerting improvements for production reliability
 - Workflow automation for platform and delivery operations
 
-## Contact
+## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/darshanppawar/)  
 [Email](mailto:darshan12309@gmail.com)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=darshan12309&icon=0&color=0)](https://visitcount.itsvg.in)

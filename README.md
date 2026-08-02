@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>I'm a Platform-focused DevOps Engineer with 7+ years of experience building reliable cloud-native platforms and software delivery systems across AWS, GCP, and Azure.<br><br>☁️ I work across multi-cloud environments with a strong focus on Kubernetes, Infrastructure as Code, GitOps, CI/CD, observability, and developer experience.<br><br>⚙️ I design and automate Kubernetes platforms using Terraform, Terragrunt, Helm, ArgoCD, Istio, and reusable infrastructure patterns.<br><br>🚀 I build standardized CI/CD and GitOps workflows using GitLab CI, Jenkins, CircleCI, Cloud Build, and ArgoCD to create repeatable paths from code to production.<br><br>🏗️ I'm particularly interested in Platform Engineering and Internal Developer Platforms, including multi-tenant self-service infrastructure, golden paths, reusable deployment patterns, and platform standardization.<br><br>📊 I work with Prometheus, Grafana, Datadog, and OpenTelemetry for monitoring, alerting, observability, troubleshooting, and production RCA.<br><br>🌐 My infrastructure work includes VPC architecture, routing, Private Service Connect, load balancing, hybrid-cloud connectivity, Kubernetes autoscaling, service mesh, and multi-cloud platform design.<br><br>🐍 I use Python and Bash to automate infrastructure, operational workflows, platform engineering tasks, and repetitive engineering processes.<br><br>🤖 I'm currently exploring AI-assisted Platform Engineering using Codex, Copilot, AI agents, reusable skills, plugins, and agentic workflows to automate engineering operations.<br><br>🔄 I also work with Kafka and Confluent Cloud for messaging and event-driven infrastructure, including automated and Jira-driven provisioning workflows.<br><br>🎯 My focus is simple: build platforms that remove repetitive operational work and give engineering teams reliable, self-service paths to production.
 
-<!--
-**darshan12309/darshan12309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/darshanppawar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshan12309@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=darshan12309&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=darshan12309&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=darshan12309&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=darshan12309&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

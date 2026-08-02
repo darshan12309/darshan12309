@@ -1,48 +1,79 @@
-# Hi, I'm Darshan Pawar
+# Darshan Pawar
 
-Platform-focused DevOps Engineer with 7+ years of experience building reliable cloud-native platforms, developer platforms, and delivery systems across AWS, GCP, and Azure.
+Platform Engineer building reliable cloud platforms, Kubernetes foundations, and self-service delivery systems that help teams ship faster with less operational drag.
 
-I help teams ship faster by designing secure, scalable, and self-service platform foundations with Kubernetes, Terraform, GitOps, CI/CD, and observability.
+I design and automate multi-cloud infrastructure, GitOps workflows, CI/CD systems, and observability stacks across AWS, GCP, and Azure.
 
 ## What I Do
 
 - Build Kubernetes platforms with Terraform, Terragrunt, Helm, Argo CD, and Istio
-- Design repeatable CI/CD and GitOps delivery paths with GitLab CI, Jenkins, CircleCI, Cloud Build, and Argo CD
-- Improve platform reliability with Prometheus, Grafana, Datadog, and OpenTelemetry
-- Engineer multi-cloud infrastructure across networking, autoscaling, service mesh, and hybrid connectivity
-- Automate repetitive operational work with Python and Bash
-- Explore AI-assisted platform engineering with Codex, Copilot, and agentic workflows
+- Standardize CI/CD and GitOps delivery with GitLab CI, Jenkins, CircleCI, Cloud Build, and Argo CD
+- Improve reliability with Prometheus, Grafana, Datadog, and OpenTelemetry
+- Design multi-cloud networking, routing, load balancing, autoscaling, and service mesh platforms
+- Automate repetitive platform and operational work with Python and Bash
+- Explore AI-assisted platform engineering with Codex, Copilot, agents, and reusable workflows
 
-## Focus Areas
+## Why It Matters
 
-- Platform Engineering
-- Internal Developer Platforms
+Engineering teams move faster when the platform is consistent, observable, and easy to use.
+
+My focus is on creating:
+- repeatable paths from code to production
+- self-service infrastructure for internal teams
+- reusable platform patterns across environments
+- lower-friction operations and better production visibility
+
+## Core Strengths
+
+- Platform engineering and internal developer platforms
 - Kubernetes at scale
-- Multi-cloud infrastructure
+- Infrastructure as Code
 - GitOps and CI/CD standardization
-- Observability and production operations
-- Self-service infrastructure and golden paths
+- Observability and incident troubleshooting
+- Multi-cloud architecture
+- Self-service infrastructure
+- Automation for delivery and operations
 
 ## Tech Stack
 
 **Cloud:** AWS, GCP, Azure  
 **Containers:** Kubernetes, Docker, Istio  
 **IaC:** Terraform, Terragrunt, Helm  
-**CI/CD:** GitLab CI, Jenkins, CircleCI, Cloud Build, Argo CD  
+**Delivery:** GitLab CI, Jenkins, CircleCI, Cloud Build, Argo CD  
 **Observability:** Prometheus, Grafana, Datadog, OpenTelemetry  
 **Automation:** Python, Bash  
 **Messaging:** Kafka, Confluent Cloud  
-**Version Control:** GitHub, GitLab, Bitbucket
+**Version Control:** GitHub, GitLab, Bitbucket  
 
-## Let's Connect
+## Selected Impact
 
-[LinkedIn](https://www.linkedin.com/in/darshanppawar/)  
-[Email](mailto:darshan12309@gmail.com)
+- Built cloud-native platform foundations for more reliable application delivery
+- Designed reusable deployment and infrastructure patterns across teams and environments
+- Standardized CI/CD and GitOps workflows to reduce manual release effort
+- Strengthened observability and production troubleshooting with metrics, logs, and traces
+- Automated operational workflows to reduce repetitive engineering work
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=darshan12309&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Streak Stats](https://streak-stats.demolab.com/?user=darshan12309&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=darshan12309&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darshan12309&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=darshan12309&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan12309&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+## Featured Work
+
+- Internal developer platform for self-service provisioning and deployment
+- Kubernetes platform automation using IaC and GitOps
+- Observability and alerting improvements for production reliability
+- Workflow automation for platform and delivery operations
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/darshanppawar/)  
+[Email](mailto:darshan12309@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=darshan12309&icon=0&color=0)](https://visitcount.itsvg.in)
